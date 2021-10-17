@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.App-header {
+  text-align: left;
+  /* background-image: linear-gradient(rgb(104, 178, 197), rgb(72, 36, 119)); */
+  background-image: url(https://source.unsplash.com/eICUFSeirc0/1600x900);
+
+}
+
+.Navbar {
+  padding: 1%;
+  padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+  justify-content: space-between;
+  
+}
+
+.Brand {
+  display: inline;
+  color: rgb(214, 214, 214);
+  font-size: 40px;
+  
+  margin-right: 0%;
+  margin-top: 30px;
+
+}
+
+button {
+  background-color: rgb(47, 123, 158);
+  color: white;
+  padding: 0.5%;
+  border-radius: 5px;
+  margin-left: 1000px;
+}
+
+button:hover {
+  background-color: rgb(12, 25, 70);
+}
+
+
+.User-container{
+  background-image: url(https://source.unsplash.com/k1bO_VTiZSs/1600x800);
+
+
+}
